@@ -1,0 +1,6 @@
+man(jagan).
+man(ganapathy).
+woman(bharathi).
+woman(mardal).
+mortal(X):- man(X).
+mortal(X):- woman(X).
